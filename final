@@ -1,0 +1,25 @@
+SRS FORMAT FOR SERACH ENGINE
+INTRODUCTION:
+The Search Engine Website Software Requirements Specification (SRS) outlines the functional and non-functional requirements for the development of a search engine website
+PURPOSE:
+Define the features and  of the search engine website.
+Provide a clear understanding of the system requirements for development
+SCOPE:
+search web pages across the internet.
+Provide relevant search results based on user queries.
+
+FUNCTIONAL REQUIREMENTS:
+Users can create accounts to access personalized features.
+Login: Registered users can log in securely to the website.
+
+OVREALL DESCRIPTION:
+Dashboard: Provide an admin dashboard for managing users, monitoring system performance, and accessing analytics.
+Content Moderation: Admins can moderate indexed content for quality and relevance.
+
+NO FUNCTIONALLY REQUIREMENTS:
+Performance
+Scalability: Design the system to handle a large volume of search requests and web page indexing.
+Reliability: The system should be highly available and reliable, minimizing downtime.
+Data Encryption: Use encryption techniques to secure user data and communications.
+Access Control: Implement role-based access control (RBAC) to manage user permissions.
+security
